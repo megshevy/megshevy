@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @megshevy
 - 👀 I’m interested in data! I am a self-proclaimed Data Nerd and love finding insights from mass amounts of data. Statistics is my bread and butter.
-- 🌱 I’m currently learning machine learning fundamentals and artificial intelligence.
+- 🌱 I’m currently learning machine learning and artificial intelligence fundamentals.
 
 <!---
 megshevy/megshevy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
